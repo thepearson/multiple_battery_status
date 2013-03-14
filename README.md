@@ -10,9 +10,10 @@ left, and ubuntu doesn't tell me this.
 REQUIREMENTS
 ============
 
-Python
+* Python
+* ACPI
 
-ACPI
+
 Tested on Ubuntu 12.04
 
 
