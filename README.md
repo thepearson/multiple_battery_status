@@ -27,12 +27,13 @@ RUNNING
 
 make sure the battery script is executable:
 
-$ chmod +x battery.py
+`$ chmod +x battery.py`
  
  
 Run the script:
 
-$ ./battery.py
+`$ ./battery.py`
+
 Battery capacity: 46.39%
 
 
